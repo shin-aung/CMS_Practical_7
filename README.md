@@ -10,6 +10,8 @@ In initiating this endeavor, I took the initiative to set up essential tools, cr
 
 In the subsequent phase, my focus shifted to establishing connections between Trello, GitHub, and Slack. This step resembled constructing a bridge, seamlessly linking these diverse platforms. The integration enabled our team to monitor tasks effortlessly and receive real-time updates on code changes within our team chat on Slack, creating a more streamlined and efficient collaborative environment.
 
+The website, as it stands now, is not the final product but a dynamic template that will undergo significant transformations as we progress. It serves as a canvas upon which we can experiment with design elements, functionalities, and user interactions. The purpose of this prototype is to test ideas, identify potential improvements, and validate the overall concept before committing to the final development.
+
 Progressing further, I began populating our Trello board with foundational information, outlining project goals and tasks. Simultaneously, I contributed code to our GitHub repository. This phase felt akin to laying the groundwork for a construction project, and I eagerly anticipate witnessing the project evolve further.
 
 **Here are the links to the sites created for Assignment 2:**
